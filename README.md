@@ -20,7 +20,7 @@ I am a sophomore pursuing a bachelor's degree in Software Engineering at Northwe
 
 - :telescope: I’m working as a Technician Assistant at Northwestern College
 
-- :mailbox: How to reach me: [![Linkedin Badge]([https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white))](https://www.linkedin.com/in/arthurpvicente/) [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:arthur.vicente@nwciowa.edu)
+- :mailbox: How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/arthurpvicente/) [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:arthur.vicente@nwciowa.edu)
 
 ---
 
