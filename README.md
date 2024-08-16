@@ -12,19 +12,21 @@
 
 ---
 
-<!-- Description about me-->
+### 👨‍💻 About Me:
 
-### 👨‍💻About Me:
+I am Arthur, a passionate software engineering student from Brazil, currently pursuing a bachelor's degree in Software Engineering at Northwestern College, and I have a keen interest in backend development and cloud technologies like AWS.
 
-I am a junior pursuing a bachelor's degree in Software Engineering at Northwestern College.
+- 🔭 **Current Role:** I’m working as a Technician Assistant at Northwestern College, where I support faculty and students with technical issues, helping to maintain the college's IT infrastructure.
 
-- :telescope: I’m working as a Technician Assistant at Northwestern College
+- 🌱 **Currently Learning:** I’m actively enhancing my skills.
 
-- :mailbox: How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/arthurpvicente/) [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:arthur.vicente@nwciowa.edu)
+- 👨‍💻 **Career Goals:** My goal is to become a successful software engineer, with a focus on backend development. I'm also preparing for technical interviews to land a software engineering role after graduation.
+
+- :mailbox: **How to reach me:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/arthurpvicente/) [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:arthur.vicente@nwciowa.edu)
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages and Tools Used:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -40,11 +42,4 @@ I am a junior pursuing a bachelor's degree in Software Engineering at Northweste
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="DOCKER" alt="Docker" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MONGODB" alt="MongoDB" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="POSTMAN" alt="Postman" width="40" height="40"/>&nbsp;
-  
 </div>
-
----
-
-### :fire: My Stats :
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=arthurpvicente&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
