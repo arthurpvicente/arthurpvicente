@@ -12,8 +12,9 @@ I'm a Software Engineering student at Northwestern College, expected to graduate
 - 🌱 I’m currently learning React framework and improving in Python. 
 - ⚡ Fun fact: I love to watch soccer games. 
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/arthurpvicente)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/arthurpvicente/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://arthurpvicente-portfolio.vercel.app/)  
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/arthurpvicente)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/arthurpvicente/)
+[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)](https://arthurpvicente-portfolio.vercel.app/)
 
 ---
 
